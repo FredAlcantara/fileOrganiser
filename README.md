@@ -1,9 +1,9 @@
 # File Organizer Script
 ---
 ## Overview
----
-The following file is a Python script with the main objective of automatically organising your directory by moving them into subdirectories based on their file extensions. Any directories which does not exist for a specific file extension, it will create one. **_P.S._** _this script was primarily created to oragnise the `Download Directory`, however, it can be adapted for other application where you need to sort files based on their extensions._
----
+___
+The following file is a Python script with the main objective of automatically organising your directory by moving them into subdirectories based on their file extensions. Any directories which does not exist for a specific file extension, it will create one. **_P.S._** *this script was primarily created to oragnise the `Download Directory`, however, it can be adapted for other application where you need to sort files based on their extensions.*
+___
 ### Requirement and Configurations
 
 - Python 3.x installed on your system.
